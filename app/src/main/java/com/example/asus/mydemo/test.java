@@ -5,4 +5,6 @@ package com.example.asus.mydemo;
  */
 
 public class test {
+
+    private String i;
 }
