@@ -6,4 +6,5 @@ package com.example.asus.mydemo;
 
 public class test2 {
     private String t;
+    //我的测试！
 }
